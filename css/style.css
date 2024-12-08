@@ -1,0 +1,53 @@
+.tour img {
+  height: 240px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  width: 100%;
+}
+.tour h5 {
+  bottom: 20px;
+  left: 20px;
+  color: #fff;
+}
+
+.banner {
+  height: 100vh;
+  color: #fff;
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(44, 36, 36, 0.586)), to(rgba(32, 44, 32, 0.519))), url("https://nepalwanders.com/wp-content/uploads/2023/08/4-1.jpg");
+  background: linear-gradient(rgba(44, 36, 36, 0.586), rgba(32, 44, 32, 0.519)), url("https://nepalwanders.com/wp-content/uploads/2023/08/4-1.jpg");
+}
+
+.quote {
+  height: 80vh;
+  color: #fff;
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(44, 36, 36, 0.586)), to(rgba(32, 44, 32, 0.519))), url("https://nepalwanders.com/wp-content/themes/nepalwanders/img/youtube.jpg");
+  background: linear-gradient(rgba(44, 36, 36, 0.586), rgba(32, 44, 32, 0.519)), url("https://nepalwanders.com/wp-content/themes/nepalwanders/img/youtube.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bx-play {
+  font-size: 80px;
+  color: grey;
+}
+
+.small {
+  width: 90px;
+  height: 90px;
+  background: #fff;
+  border-radius: 50%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.bg img {
+  width: 100%;
+  border-radius: 50%;
+}/*# sourceMappingURL=style.css.map */
